@@ -1,0 +1,24 @@
+# Entornos virtuales
+venv/
+.env/
+.env.bak/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de compilación / build
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
